@@ -1,2 +1,2 @@
-# FCCMongo
-FCC mongoose and mongoDB implementation
+FCC Mongo & Mongoose Challenges
+===============================
